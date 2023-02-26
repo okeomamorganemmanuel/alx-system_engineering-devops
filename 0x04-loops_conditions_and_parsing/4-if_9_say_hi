@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#Displays best school
+
+var='Best School'
+i=1
+while [ $i -le 10 ]
+do
+	echo "$var"
+	if [ $i -eq 9 ]
+	then
+		echo 'Hi'
+	fi
+	i=$((i+1))
+done
