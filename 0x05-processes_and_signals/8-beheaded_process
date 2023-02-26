@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#You cannot use kill or killall
+
+pkill -f -SIGKILL 7-highlander
