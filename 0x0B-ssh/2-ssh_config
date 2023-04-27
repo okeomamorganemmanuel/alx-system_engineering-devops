@@ -1,0 +1,3 @@
+Host 54.160.114.182
+	IdentityFile ~/.ssh/config
+	PasswordAthentication no
